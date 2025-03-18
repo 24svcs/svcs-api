@@ -55,7 +55,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'svcs.wsgi.application'
+WSGI_APPLICATION = 'svcs.wsgi.app'
 
 
 
