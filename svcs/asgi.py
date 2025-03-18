@@ -15,4 +15,3 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'svcs.settings.prod')
 
 application = get_asgi_application()
 
-app = application
